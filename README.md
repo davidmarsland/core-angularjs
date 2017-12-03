@@ -1,14 +1,24 @@
-# core-angularjs
-Core AngularJS Course Material
-
 ### Core AngularJS Training for Grocery Outlet 
 <a target="_blank" href="mailto:david@marsland.org?s=AngularJS Course question">david@marsland.org</a>
-<a target="_blank" href="http://developintelligence.com">DevelopIntelligence.com</a>
+<br>
+<img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
+<br>
+<a target="_di" href="http://developintelligence.com">DevelopIntelligence.com</a>
+#### Monday Dec. 4th - Friday Dec. 8th 9AM-5PM
+https://davidmarsland.github.io/core-angularjs/
 
-### Monday, Dec. 4th - Friday Dec. 8th 9AM - 5PM
+---
+### Codepen.io
+
+Codepen is a great tool for interactively trying and sharing AngularJS code
+
+Login or create a free account at <a target="_codepen" href="https://codepen.io">codepen.io</a>
 
 ---
 #### Hello AngularJS World
+* May prompt you to login or register at <a target="_codepen" href="https://codepen.io">codepen.io</a>. 
+* Do this, then refresh this page and Fork your own.
+
 <iframe height='565' scrolling='no' title='HelloNgWorld' src='//codepen.io/demarsland/pres/OOdjKQ/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/demarsland/pen/OOdjKQ/'>HelloNgWorld</a> by David Marsland (<a href='https://codepen.io/demarsland'>@demarsland</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 ---
@@ -84,10 +94,10 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 * Angular Evolution
 * Architecture basics
 * Starter Code
-* Binging, Modules, Controllers, Directives
+* Binding, Modules, Controllers, Directives
 <br>
 <br>
-### <a target="_mva_slides" href="https://mva.microsoft.com/en-US/training-courses/introduction-to-angularjs-8682?l=fT4lgLH1_1504984382">MVA Intro to Angular Slides (scroll halfway to Course Outline) </a>
+### <a target="_mva_slides" href="https://mva.microsoft.com/en-US/training-courses/introduction-to-angularjs-8682?l=fT4lgLH1_1504984382">MVA Intro to Angular Slides</a>
 
 ---
 
@@ -118,17 +128,18 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 ---
 
 <a target="_packt" href="https://www.packtpub.com/mapt/book/web_development/9781782161820/2">Building and Testing Web Apps</a>
-from <a target="_packt" href="https://www.packtpub.com/mapt/book/web_development/9781782161820/2">Mastering Web Application Development with AngularJS</a>
+<br>from<br> <a target="_packt" href="https://www.packtpub.com/mapt/book/web_development/9781782161820/2">Mastering Web Application Development with AngularJS</a>
 
 ---
 
 ### Tools
 
-<a target="_tools" href="https://browsersync.io/>Browsersync</a>
+<a target="_tools" href="https://browse
+rsync.io">Browsersync Synchronized browser testing</a>
 ```
 npm install -g browser-sync
 ```
-
+<a target="_tools" href="https://gruntjs.com">Grunt, The JavaScript Task Runner</a>
 ```
 npm install -g grunt-cli
 ```
