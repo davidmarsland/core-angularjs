@@ -5,7 +5,7 @@
 <br>
 <a target="_di" href="http://developintelligence.com">DevelopIntelligence.com</a>
 #### Monday Dec. 4th - Friday Dec. 8th 9AM-5PM
-https://davidmarsland.github.io/core-angularjs/
+<a target="_git_core" href="https://davidmarsland.github.io/core-angularjs/">https://davidmarsland.github.io/core-angularjs/</a>
 
 ---
 ### Codepen.io
