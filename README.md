@@ -129,7 +129,7 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod1Lab/">https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod1Lab/</a>
 
 ### Lab 2 Solution
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod1Lab/">https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod1Lab/</a>
+<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod2Lab/">https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod2Lab/</a>
 ---
 ### Custom Directives by Bruno Scopelliti
 <iframe height='642' scrolling='no' title='AngularJS DirectivePlanetShop' src='//codepen.io/demarsland/pres/ZaVdPo/?height=642&theme-id=0&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/demarsland/pen/ZaVdPo/'>AngularJS DirectivePlanetShop</a> by David Marsland (<a href='https://codepen.io/demarsland'>@demarsland</a>) on <a href='https://codepen.io'>CodePen</a>.
