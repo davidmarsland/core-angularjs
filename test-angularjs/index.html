@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html ng-app="appHello">
+  <head>
+    <title>Hello Test AngularJS</title>
+  </head>
+
+  <body ng-controller="HelloController">
+    <div>Hello AngularJS World from {{message}}</div>
+    <input ng-model="message" >
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>      
+    <script type="text/javascript">
+      angular.module('appHello',[])
+        .controller('HelloController',
+          function ($scope) {
+            $scope.message="Mars"
+          }
+      );
+    </script>
+  </body>
+</html>
