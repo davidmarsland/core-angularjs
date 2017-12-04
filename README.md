@@ -16,8 +16,8 @@ Login or create a free account at <a target="_codepen" href="https://codepen.io"
 
 ---
 #### Hello AngularJS World
-* May prompt you to login or register at <a target="_codepen" href="https://codepen.io">codepen.io</a>. 
-* Do this, then refresh this page and Fork your own.
+* iframe may prompt to login or register @ <a target="_codepen" href="https://codepen.io">codepen.io</a> 
+* Register & login, then refresh, choose Fork
 
 <iframe height='565' scrolling='no' title='HelloNgWorld' src='//codepen.io/demarsland/pres/OOdjKQ/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/demarsland/pen/OOdjKQ/'>HelloNgWorld</a> by David Marsland (<a href='https://codepen.io/demarsland'>@demarsland</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
@@ -125,6 +125,10 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 * Modules
 * Dependency Injection
 
+---
+### Custom Directives by Bruno Scopelliti
+<iframe height='642' scrolling='no' title='AngularJS DirectivePlanetShop' src='//codepen.io/demarsland/pres/ZaVdPo/?height=642&theme-id=0&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/demarsland/pen/ZaVdPo/'>AngularJS DirectivePlanetShop</a> by David Marsland (<a href='https://codepen.io/demarsland'>@demarsland</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 ---
 
 <a target="_packt" href="https://www.packtpub.com/mapt/book/web_development/9781782161820/2">Building and Testing Web Apps</a>
