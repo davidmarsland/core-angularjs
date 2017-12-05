@@ -161,13 +161,22 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart5FormSubmitDisabled/">Mod5LabPart5FormSubmitDisabled</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart6FormService/">Mod5LabPart6FormService</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabSelfFormValidationLogicToken/">Mod5LabSelfFormValidationLogicToken</a>
+---
+### Factory Provider Services Slides from Microsoft Virtual Academy
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fcp%2Dmlxprod%2Dstatic%2Emicrosoft%2Ecom%3A443%2F05778%2D1013%2Fen%2Dus%2Fcontent%2Fcontent%5Fmmblxnh1%5F3304984382%2F05052015115948%2Epptx&wdAr=1.7777777777777777' width='350px' height='221px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
+---
+
+### Custom Directives and DOM Manipulation Slides from Microsoft Virtual Academy
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fcp%2Dmlxprod%2Dstatic%2Emicrosoft%2Ecom%3A443%2F05778%2D1013%2Fen%2Dus%2Fcontent%2Fcontent%5Fgytzmmh1%5F2004984382%2F05052015115820%2Epptx&wdAr=1.7777777777777777' width='350px' height='221px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
 
 ---
 ### Custom Directives by Bruno Scopelliti
 <iframe height='642' scrolling='no' title='AngularJS DirectivePlanetShop' src='//codepen.io/demarsland/pres/ZaVdPo/?height=642&theme-id=0&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/demarsland/pen/ZaVdPo/'>AngularJS DirectivePlanetShop</a> by David Marsland (<a href='https://codepen.io/demarsland'>@demarsland</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 ---
-
+### Routes for Deep-linking Single Page Apps and UI-Router
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fcp%2Dmlxprod%2Dstatic%2Emicrosoft%2Ecom%3A443%2F05778%2D1013%2Fen%2Dus%2Fcontent%2Fcontent%5Fvwmcbnh1%5F5604984382%2F05052015115855%2Epptx&wdAr=1.7777777777777777' width='1186px' height='691px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
+---
 <a target="_packt" href="https://www.packtpub.com/mapt/book/web_development/9781782161820/2">Building and Testing Web Apps</a>
 <br>from<br> <a target="_packt" href="https://www.packtpub.com/mapt/book/web_development/9781782161820/2">Mastering Web Application Development with AngularJS</a>
 
