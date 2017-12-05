@@ -142,25 +142,25 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 ### Lab 4 Solutions
 <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4Lab/">https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabPart4GitHubService/</a>
 
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabPart0Begin/">Mod4LabPart0Begin</a>
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabPart1Promises/">Mod4LabPart1Promises</a>
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabPart2Repos/">Mod4LabPart2Repos</a>
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabPart2Repos/">Mod4LabPart3ReposDetails</a>
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabPart4GitHubService/">Mod4LabPart4GitHubService</a>
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabSelfGitSearchRepos/">Mod4LabSelfGitSearchRepos</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabPart0Begin/">Mod4LabPart0Begin</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabPart1Promises/">Mod4LabPart1Promises</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabPart2Repos/">Mod4LabPart2Repos</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabPart2Repos/">Mod4LabPart3ReposDetails</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabPart4GitHubService/">Mod4LabPart4GitHubService</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4LabSelfGitSearchRepos/">Mod4LabSelfGitSearchRepos</a>
 
 ----
 ### Lab 5 Forms Solutions
 <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4Lab/">https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart6FormService/</a>
 
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart0Begin/">Mod5LabPart0Begin</a>
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart1Form/">Mod5LabPart1Form</a>
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart2FormBind/">Mod5LabPart2FormBind</a
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart3FormRequired/">Mod5LabPart3FormRequired</a>
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart4FormSubmit/">Mod5LabPart4FormSubmit</a>
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart5FormSubmitDisabled/">Mod5LabPart5FormSubmitDisabled</a>
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart6FormService/">Mod5LabPart6FormService</a>
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabSelfFormValidationLogicToken/">Mod5LabSelfFormValidationLogicToken</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart0Begin/">Mod5LabPart0Begin</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart1Form/">Mod5LabPart1Form</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart2FormBind/">Mod5LabPart2FormBind</a
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart3FormRequired/">Mod5LabPart3FormRequired</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart4FormSubmit/">Mod5LabPart4FormSubmit</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart5FormSubmitDisabled/">Mod5LabPart5FormSubmitDisabled</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart6FormService/">Mod5LabPart6FormService</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabSelfFormValidationLogicToken/">Mod5LabSelfFormValidationLogicToken</a>
 
 ---
 ### Custom Directives by Bruno Scopelliti
