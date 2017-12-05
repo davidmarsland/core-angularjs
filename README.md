@@ -133,14 +133,14 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 
 ----
 ### Lab 3 Solution
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod2Lab/">https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod3Lab/</a>
+<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod3Lab/">https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod3Lab/</a>
 
 ### Lab 3 Self Solution
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod2Lab/">https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod3LabSelf/</a>
+<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod3LabSelf/">https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod3LabSelf/</a>
 
 ----
 ### Lab 4 Solution
-<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod2Lab/">https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4Lab/</a>
+<a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4Lab/">https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod4Lab/</a>
 
 
 
