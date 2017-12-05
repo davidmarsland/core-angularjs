@@ -155,7 +155,7 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart0Begin/">Mod5LabPart0Begin</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart1Form/">Mod5LabPart1Form</a>
-* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart2FormBind/">Mod5LabPart2FormBind</a
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart2FormBind/">Mod5LabPart2FormBind</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart3FormRequired/">Mod5LabPart3FormRequired</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart4FormSubmit/">Mod5LabPart4FormSubmit</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart5FormSubmitDisabled/">Mod5LabPart5FormSubmitDisabled</a>
