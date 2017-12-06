@@ -184,6 +184,16 @@ function submit(model) {
         alert('Submitted\n' + JSON.stringify(model));
 }
 ```
+---
+### Advanced Course Materials and Labs
+Follow this Link and Register for Free Audit Access to these Excellent EdX Advanced Course Materials <br>(Wait till we start Advanced Section on Wednesday): 
+#### <a href="https://www.edx.org/" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png"></a>
+
+### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">
+EdX: DEV221x AngularJS: Advanced</a>
+
+### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">
+https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev221x-2</a>
 
 ---
 ### Factory Provider Services Slides from Microsoft Virtual Academy
@@ -217,18 +227,7 @@ npm install -g browser-sync
 ```
 npm install -g grunt-cli
 ```
----
-### Advanced Course Materials and Labs
-Follow this Link and Register for Free Audit Access to these Excellent EdX Advanced Course Materials <br>(Wait till we start Advanced Section on Wednesday): 
-#### <a href="https://www.edx.org/" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png"></a>
 
-### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">
-EdX: DEV221x AngularJS: Advanced</a>
-
-### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">
-https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev221x-2</a>
-
--
 
 ---
 ### Advanced Labs Module 1 Factories and Sessions
