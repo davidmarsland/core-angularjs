@@ -193,3 +193,30 @@ npm install -g browser-sync
 ```
 npm install -g grunt-cli
 ```
+---
+### Advanced Course Materials and Labs
+Follow this Link and Register for Free Audit Access to these Excellent EdX Advanced Course Materials <br>(Wait till we start Advanced Section on Wednesday): 
+#### <a href="https://www.edx.org/" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png"></a>
+
+### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">
+EdX: DEV221x AngularJS: Advanced</a>
+
+### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">
+https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev221x-2</a>
+
+-
+
+---
+### Advanced Labs Module 1 Factories and Sessions
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod1LabPart1Session/">Mod1LabPart1Session</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod1LabPart2SessionFactory/">Mod1LabPart2SessionFactory
+
+---
+### Advanced Labs Module 2 Custom Directives
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1Directive/">Mod2LabPart1Directive</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1Start/">Mod2LabPart1Start</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart2DirectiveScope/">Mod2LabPart2DirectiveScope</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart3DirectivePerson/">Mod2LabPart3DirectivePerson</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart4DirectivePersonChange/">Mod2LabPart4DirectivePersonChange</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart5DirectiveLink/">Mod2LabPart5DirectiveLink</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabSelfDirectivesScopeAuthors0Start/">Mod2LabSelfDirectivesScopeAuthors0Start</a>
