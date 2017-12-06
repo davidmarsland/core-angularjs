@@ -238,7 +238,7 @@ npm install -g grunt-cli
 ### Advanced Labs Module 2 Custom Directives
 
 #### Warning!  Starter Code has wrong case for LabController.js, should be labController.js
-#### Fails on case sensitive servers like linux apache
+<br>Fails on case sensitive servers like linux apache
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1Start/">Mod2LabPart1Start</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1StartCaseFixed/">Mod2LabPart1StartCaseFixed</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart2DirectiveScope/">Mod2LabPart2DirectiveScope</a>
@@ -252,3 +252,8 @@ npm install -g grunt-cli
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart4DirectivePersonChange/">Mod2LabPart4DirectivePersonChange</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart5DirectiveLink/">Mod2LabPart5DirectiveLink</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabSelfDirectivesScopeAuthors0Start/">Mod2LabSelfDirectivesScopeAuthors0Start</a>
+---
+Module 3: Bootstrap and ngAnimation Labs
+
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Bootstrap/">Mod3Lab1Bootstrap</a>
+
