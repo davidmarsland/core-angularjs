@@ -162,6 +162,30 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabPart6FormService/">Mod5LabPart6FormService</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev220x-angularjs-demarsland/Mod5LabSelfFormValidationLogicToken/">Mod5LabSelfFormValidationLogicToken</a>
 ---
+### Errors on form submit
+
+Force error by changing password to passwordx
+```
+<input type="password" name="password" class="form-control" ng-model="model.passwordx" required>
+<div class="alert alert-danger" ng-show="(form.password.$touched || form.$submitted) && form.passwordx.$error.required">
+```
+```
+$scope.submit = submit;
+function submit(model) {
+  registration.submit(model).$promise
+          .then(function (response) {
+            alert('success');
+          },
+          function (response) {
+            alert('error:' + response.status + ' ' + response.data.error);
+            console.log('error:' + response.status + ' ' + response.data.error);
+            console.log(response);
+          });
+        alert('Submitted\n' + JSON.stringify(model));
+}
+```
+
+---
 ### Factory Provider Services Slides from Microsoft Virtual Academy
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fcp%2Dmlxprod%2Dstatic%2Emicrosoft%2Ecom%3A443%2F05778%2D1013%2Fen%2Dus%2Fcontent%2Fcontent%5Fmmblxnh1%5F3304984382%2F05052015115948%2Epptx&wdAr=1.7777777777777777' width='1186px' height='691px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
 ---
