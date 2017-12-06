@@ -76,6 +76,7 @@ Follow this Link, Create a Login and Register for Free Audit Access to these Exc
 ### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV220x+4T2017/course/">https://courses.edx.org/courses/course-v1:Microsoft+DEV220x+4T2017/course/</a>
 
 ---
+
 ### Advanced Course Materials and Labs
 Follow this Link and Register for Free Audit Access to these Excellent EdX Advanced Course Materials <br>(Wait till we start Advanced Section on Wednesday): 
 #### <a href="https://www.edx.org/" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png" /></a>
@@ -172,24 +173,24 @@ Force error by changing password to passwordx
 $scope.submit = submit;
 function submit(model) {
   registration.submit(model).$promise
-          .then(function (response) {
-            alert('success');
-          },
-          function (response) {
-            alert('error:' + response.status + ' ' + response.data.error);
-            console.log('error:' + response.status + ' ' + response.data.error);
-            console.log(response);
-          });
-        alert('Submitted\n' + JSON.stringify(model));
+    .then(function (response) {
+        alert('success');
+    },
+    function (response) {
+      alert('error:' + response.status + ' ' + response.data.error);
+      console.log('error:' + response.status + ' ' + response.data.error);
+      console.log(response);
+    });
+    alert('Submitted\n' + JSON.stringify(model));
 }
 ```
 ---
+
 ### Advanced Course Materials and Labs
 Follow this Link and Register for Free Audit Access to these Excellent EdX Advanced Course Materials <br>(Wait till we start Advanced Section on Wednesday): 
 #### <a href="https://www.edx.org/" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png" /></a>
 
-### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">
-EdX: DEV221x AngularJS: Advanced</a>
+### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">EdX: DEV221x AngularJS: Advanced</a>
 
 ### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">
 https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev221x-2</a>
