@@ -257,3 +257,6 @@ Module 3: Bootstrap and ngAnimation Labs
 
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Bootstrap/">Mod3Lab1Bootstrap</a>
 
+---
+Progressive Web Apps
+<a target="_ref" href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/>https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/</a>
