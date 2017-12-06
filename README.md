@@ -243,7 +243,7 @@ Module 3: Bootstrap and ngAnimation Labs
 
 ---
 Progressive Web Apps
-<a target="_ref" href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/>https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/</a>
+<a target="_ref" href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/>https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/"></a>
 
 
 ### Tools
@@ -261,3 +261,5 @@ npm install -g grunt-cli
 ### Scaffolding Angular JS Apps with Yeoman, Gulp, and Bitmaker
 
 <a target="_ref" href="https://medium.com/bitmaker-software/scaffolding-a-new-angularjs-project-db01151f16e0">BitMaker Scaffolding Tool</a>
+
+---
