@@ -78,7 +78,7 @@ Follow this Link, Create a Login and Register for Free Audit Access to these Exc
 ---
 ### Advanced Course Materials and Labs
 Follow this Link and Register for Free Audit Access to these Excellent EdX Advanced Course Materials <br>(Wait till we start Advanced Section on Wednesday): 
-#### <a href="https://www.edx.org/" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png"></a>
+#### <a href="https://www.edx.org/" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png" /></a>
 
 ### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">EdX: DEV221x AngularJS: Advanced</a>
 
