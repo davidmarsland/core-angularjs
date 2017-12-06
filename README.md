@@ -1,9 +1,9 @@
 ### Core AngularJS Training for Grocery Outlet 
 <a target="_blank" href="mailto:david@marsland.org?s=AngularJS Course question">david@marsland.org</a>
 <br>
-<img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
+<img src="//www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
 <br>
-<a target="_di" href="http://developintelligence.com">DevelopIntelligence.com</a>
+<a target="_di" href="//developintelligence.com">DevelopIntelligence.com</a>
 #### Monday Dec. 4th - Friday Dec. 8th 9AM-5PM
 <a target="_git_core" href="https://davidmarsland.github.io/core-angularjs/">https://davidmarsland.github.io/core-angularjs/</a>
 
