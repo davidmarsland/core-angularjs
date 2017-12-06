@@ -241,8 +241,8 @@ npm install -g grunt-cli
 #### Fails on case sensitive servers like linux apache
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1Start/">Mod2LabPart1Start</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1StartCaseFixed/">Mod2LabPart1StartCaseFixed</a>
-* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1DirectiveScope/">Mod2LabPart2DirectiveScope</a>
-* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1DirectiveScopeCaseFixed/">Mod2LabPart1DirectiveScopeCaseFixed</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart2DirectiveScope/">Mod2LabPart2DirectiveScope</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart2DirectiveScopeCaseFixed/">Mod2LabPart1DirectiveScopeCaseFixed</a>
 
 ---
 ### Advanced Labs Module 2 Custom Directives Continued
