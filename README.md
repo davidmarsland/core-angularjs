@@ -70,7 +70,7 @@ Login or create a free account at <a target="_codepen" href="https://codepen.io"
 
 ### Online Course Materials and Labs
 Follow this Link, Create a Login and Register for Free Audit Access to these Excellent EdX Course Materials: 
-#### <a href="https://www.edx.org/about-us" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png"></a> 
+#### <a href="https://www.edx.org/about-us" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png" /></a> 
 ### <a target="_dev220x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV220x+4T2017/course/">EdX: DEV220x AngularJS: Fundamentals</a>
 
 ### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV220x+4T2017/course/">https://courses.edx.org/courses/course-v1:Microsoft+DEV220x+4T2017/course/</a>
@@ -80,8 +80,7 @@ Follow this Link, Create a Login and Register for Free Audit Access to these Exc
 Follow this Link and Register for Free Audit Access to these Excellent EdX Advanced Course Materials <br>(Wait till we start Advanced Section on Wednesday): 
 #### <a href="https://www.edx.org/" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png"></a>
 
-### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">
-EdX: DEV221x AngularJS: Advanced</a>
+### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">EdX: DEV221x AngularJS: Advanced</a>
 
 ### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">
 https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev221x-2</a>
@@ -187,7 +186,7 @@ function submit(model) {
 ---
 ### Advanced Course Materials and Labs
 Follow this Link and Register for Free Audit Access to these Excellent EdX Advanced Course Materials <br>(Wait till we start Advanced Section on Wednesday): 
-#### <a href="https://www.edx.org/" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png"></a>
+#### <a href="https://www.edx.org/" target="_edx"><img src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png" /></a>
 
 ### <a target="_dev221x" href="https://courses.edx.org/courses/course-v1:Microsoft+DEV221x+4T2017/course/">
 EdX: DEV221x AngularJS: Advanced</a>
