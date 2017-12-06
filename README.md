@@ -236,8 +236,17 @@ npm install -g grunt-cli
 
 ---
 ### Advanced Labs Module 2 Custom Directives
-* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1Directive/">Mod2LabPart1Directive</a>
+
+#### Warning!  Starter Code has wrong case for LabController.js, should be labController.js
+#### Fails on case sensitive servers like linux apache
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1Start/">Mod2LabPart1Start</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1StartCaseFixed/">Mod2LabPart1StartCaseFixed</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1Directive/">Mod2LabPart1Directive</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart1DirectiveCaseFixed/">Mod2LabPart1DirectiveCaseFixed</a>
+
+---
+### Advanced Labs Module 2 Custom Directives Continued
+
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart2DirectiveScope/">Mod2LabPart2DirectiveScope</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart3DirectivePerson/">Mod2LabPart3DirectivePerson</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart4DirectivePersonChange/">Mod2LabPart4DirectivePersonChange</a>
