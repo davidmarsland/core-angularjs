@@ -215,21 +215,6 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 <br>from<br> <a target="_packt" href="https://www.packtpub.com/mapt/book/web_development/9781782161820/2">Mastering Web Application Development with AngularJS</a>
 
 ---
-
-### Tools
-
-<a target="_tools" href="https://browse
-rsync.io">Browsersync Synchronized browser testing</a>
-```
-npm install -g browser-sync
-```
-<a target="_tools" href="https://gruntjs.com">Grunt, The JavaScript Task Runner</a>
-```
-npm install -g grunt-cli
-```
-
-
----
 ### Advanced Labs Module 1 Factories and Sessions
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod1LabPart1Session/">Mod1LabPart1Session</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod1LabPart2SessionFactory/">Mod1LabPart2SessionFactory
@@ -250,7 +235,7 @@ npm install -g grunt-cli
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart3DirectivePerson/">Mod2LabPart3DirectivePerson</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart4DirectivePersonChange/">Mod2LabPart4DirectivePersonChange</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart5DirectiveLink/">Mod2LabPart5DirectiveLink</a>
-* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabSelfDirectivesScopeAuthors0Start/">Mod2LabSelfDirectivesScopeAuthors0Start</a>
+
 ---
 Module 3: Bootstrap and ngAnimation Labs
 
@@ -259,3 +244,20 @@ Module 3: Bootstrap and ngAnimation Labs
 ---
 Progressive Web Apps
 <a target="_ref" href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/>https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/</a>
+
+
+### Tools
+
+<a target="_tools" href="https://browse
+rsync.io">Browsersync Synchronized browser testing</a>
+```
+npm install -g browser-sync
+```
+<a target="_tools" href="https://gruntjs.com">Grunt, The JavaScript Task Runner</a>
+```
+npm install -g grunt-cli
+```
+---
+### Scaffolding Angular JS Apps with Yeoman, Gulp, and Bitmaker
+
+<a target="_ref" href="https://medium.com/bitmaker-software/scaffolding-a-new-angularjs-project-db01151f16e0">BitMaker Scaffolding Tool</a>
