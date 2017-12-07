@@ -236,6 +236,7 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart4DirectivePersonChange/">Mod2LabPart4DirectivePersonChange</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart5DirectiveLink/">Mod2LabPart5DirectiveLink</a>
 
+<a target="_ref" href="ahttps://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart5DirectiveLinkRepeatScopes/">Mod2LabPart5DirectiveLinkRepeatScopes</a>
 ---
 Module 3: Bootstrap and ngAnimation Labs
 
@@ -248,11 +249,13 @@ Progressive Web Apps
 
 ### Tools
 
+<a target="_tools" href="https://scotch.io/bar-talk/a-fast-and-convenient-development-server-with-lite-server">Lite-server with live reload, extends Browsersync</a>
+```
+npm install -g lite-server
+```
 <a target="_tools" href="https://browse
 rsync.io">Browsersync Synchronized browser testing</a>
-```
-npm install -g browser-sync
-```
+
 <a target="_tools" href="https://gruntjs.com">Grunt, The JavaScript Task Runner</a>
 ```
 npm install -g grunt-cli
@@ -261,5 +264,30 @@ npm install -g grunt-cli
 ### Scaffolding Angular JS Apps with Yeoman, Gulp, and Bitmaker
 
 <a target="_ref" href="https://medium.com/bitmaker-software/scaffolding-a-new-angularjs-project-db01151f16e0">BitMaker Scaffolding Tool</a>
-
+```
+npm install -g yo gulp bower
+```
+which yo
+```
+```
+npm install -g python
+```
+npm install -g generator-gulp-angular
+```
+```
+mkdir my-project
+cd my-project
+```
+```
+yo gulp-angular
+```
+```
+npm-install
+```
+```
+gulp serve
+```
 ---
+### Everything Wrong With Angular (1.0-1.5)
+<a target="_ref" href="''">''</a>
+<a target="_ref" href="https://gist.github.com/JakeSidSmith/8e2a7c509347fb222e51a39131051f25">Blog post</a>
