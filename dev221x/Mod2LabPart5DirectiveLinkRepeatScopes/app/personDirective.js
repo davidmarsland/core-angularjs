@@ -10,7 +10,7 @@ angular.module('app')
       'Pen Name: <input type="text" ng-model="data.name" class="form-control" />' +
       'Pen Name: <input type="text" ng-model="data.penName" class="form-control" />' +
       '<input type="button" ng-click="output()" value="Action" class="btn btn-primary"/>' + 
-      '<pre>{{person | json}}</pre>',
+      '<pre>{{data | json}}</pre>',
       controller: function($scope) {
         $scope.output = function() {
           var s = JSON.stringify($scope.data);
