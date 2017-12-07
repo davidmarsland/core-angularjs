@@ -242,11 +242,16 @@ Module 3: Bootstrap and ngAnimation Labs
 
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Bootstrap/">Mod3Lab1Bootstrap</a>
 
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Part2BootstrapDirectives">Mod3Lab1Part2BootstrapDirectives</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Part3BootstrapAlerts">Mod3Lab1Part3BootstrapAlerts</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Part4ngAnimate">Mod3Lab1Part4ngAnimate</a>
+* <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Part5ngAnimateJS">Mod3Lab1Part5ngAnimateJS</a>
+
 ---
 Progressive Web Apps
-<a target="_ref" href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/>https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/"></a>
+<a target="_ref"href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/>https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/">Your First Progressive Web App</a>
 
-
+---
 ### Tools
 
 <a target="_tools" href="https://scotch.io/bar-talk/a-fast-and-convenient-development-server-with-lite-server">Lite-server with live reload, extends Browsersync</a>
