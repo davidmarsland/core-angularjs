@@ -236,7 +236,7 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart4DirectivePersonChange/">Mod2LabPart4DirectivePersonChange</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart5DirectiveLink/">Mod2LabPart5DirectiveLink</a>
 
-<a target="_ref" href="ahttps://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart5DirectiveLinkRepeatScopes/">Mod2LabPart5DirectiveLinkRepeatScopes</a>
+<a target="_ref" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod2LabPart5DirectiveLinkRepeatScopes/">Mod2LabPart5DirectiveLinkRepeatScopes</a>
 ---
 Module 3: Bootstrap and ngAnimation Labs
 
@@ -272,27 +272,36 @@ npm install -g grunt-cli
 ```
 npm install -g yo gulp bower
 ```
+```
 which yo
 ```
+### Install Python from 
+<a target="_ref" href="https://www.python.org/">https://www.python.org/</a>
+
 ```
 npm install -g python
 ```
+
+```
 npm install -g generator-gulp-angular
 ```
+
 ```
 mkdir my-project
 cd my-project
 ```
+
 ```
 yo gulp-angular
 ```
+
 ```
 npm-install
 ```
+
 ```
 gulp serve
 ```
 ---
 ### Everything Wrong With Angular (1.0-1.5)
-<a target="_ref" href="''">''</a>
-<a target="_ref" href="https://gist.github.com/JakeSidSmith/8e2a7c509347fb222e51a39131051f25">Blog post</a>
+<a target="_ref" href="https://gist.github.com/JakeSidSmith/8e2a7c509347fb222e51a39131051f25">Everything Wrong With Angular (1.0-1.5) Blog post</a>
