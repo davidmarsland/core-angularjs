@@ -247,7 +247,6 @@ Module 3: Bootstrap and ngAnimation Labs
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Part4ngAnimate">Mod3Lab1Part4ngAnimate</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Part5ngAnimateJS">Mod3Lab1Part5ngAnimateJS</a>
 
-
 ---
 Progressive Web Apps
 <a target="_ref"href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/>https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/">Your First Progressive Web App</a>
@@ -267,45 +266,32 @@ rsync.io">Browsersync Synchronized browser testing</a>
 npm install -g grunt-cli
 ```
 ---
-### Scaffolding Angular JS Apps with Yeoman, Gulp, and Bitmaker
-
-<a target="_ref" href="https://medium.com/bitmaker-software/scaffolding-a-new-angularjs-project-db01151f16e0">BitMaker Scaffolding Tool</a>
-```
-npm install -g yo gulp bower
-```
-```
-which yo
-```
-### Install Python from 
-<a target="_ref" href="https://www.python.org/">https://www.python.org/</a>
+### Module 4, 5, and 6 labs all need to be run locally
 
 ```
-npm install -g python
+node app.js
+```
+or
+```
+node server.js
 ```
 
-```
-npm install -g generator-gulp-angular
-```
+---
+### Module 6 Testing Labs
 
+#### Bug in Mod 6 Testing labs, need to change from http: to https:
+#### Should fail in tests
 ```
-mkdir my-project
-cd my-project
-```
-
-```
-yo gulp-angular
-```
-
-```
-npm-install
-```
-
-```
-gulp serve
+// $http.get('http://reqres.in/api/users').then(function(result){
+$http.get('https://reqres.in/api/users').then(function(result){
+    deferred.resolve(result.data.data);
+});
 ```
 ---
-### Everything Wrong With Angular (1.0-1.5)
-<a target="_ref" href="https://gist.github.com/JakeSidSmith/8e2a7c509347fb222e51a39131051f25">Everything Wrong With Angular (1.0-1.5) Blog post</a>
+#### Other Module 6 Testing Issues
+```
+npm install jasmine-core -g
+```
 
 ---
 ### Solutions for AngularJS Fundamentals and Advanced courses
@@ -329,3 +315,62 @@ gulp serve
 
 <a target="_ref" href="https://www.pluralsight.com/paths/angular-js">https://www.pluralsight.com/paths/angular-js</a>
 
+---
+### Advanced Topics
+
+* Restangular <a target="_ref" href="http://plnkr.co/edit/8qrGeE?p=preview">RestAngular Demo</a>
+<br><a target="_ref" href="https://www.ng-newsletter.com/posts/restangular.html">RestAngular on Angular: ng-newsletter</a>
+* Messaging
+* Best Practices with Angular
+<a target="_ref" href="https://www.slideshare.net/ChiewCarol/angularjs-style-guide">AngularJS Style Guide Presentation</a>
+<a target="_ref" href="https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md">John Papa's AngularJS Style Guide</a>
+* AngularJS Packaging
+* AngularJS Design Patterns
+  ** ModelViewWhatever
+  ** Controller-as-syntax
+  ** Service Decorator
+* <a target="_ref" href="https://docs.angularjs.org/guide/security">Secure Coding with AngularJS</a>
+---
+
+### AngularJS with ASP.NET Core
+<a target="_ref" href="https://docs.microsoft.com/en-us/aspnet/core/client-side/angular">Using AngularJS for Single Page Applications (SPAs) with ASP.NET Core</a>
+---
+### App Generator using Yeoman
+
+<a target="_ref" href="https://www.npmjs.com/package/generator-angm">AngularJS Yeoman Generator Angm Generator</a>
+
+* Install Bower and bower-installer
+```
+npm install -g bower
+npm install -g bower-installer
+```
+* Install yo (Yeoman)
+```
+npm install -g yo
+```
+npm install -g generator-angm
+```
+* Starting an application: From the command line, initiate the generator:
+```
+yo angm
+```
+* Prompts to fill with useful informations as Project name, author, what UI: Bootstrap or Angular Material.
+
+* Running project on development
+```
+grunt dev
+```
+* Running project on production
+```
+grunt build
+```
+--- 
+
+### Intro to AngularJS vs Angular 4
+<a target="_ref" href="https://gist.github.com/JakeSidSmith/8e2a7c509347fb222e51a39131051f25">Everything Wrong With Angular (1.0-1.5) Blog post</a>
+
+<a target="_ref" href="https://www.angularminds.com/blog/article/comparison-difference-between-angular1-vs-angular2-vs-angular4.html">Comparison AngularJS vs Angular2 vs Angular4</a>
+
+<a target="_ref" href="http://blog.grossman.io/angular-1-component-based-architecture-2/">Component Based AngularJS 1.5 WebApp</a>
+
+<a target="_ref" href="https://www.ng-book.com/2/p/Converting-an-AngularJS-1.x-App-to-Angular-4/">Converting AngularJS App to Angular4: ng-book</a>
