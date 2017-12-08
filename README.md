@@ -247,12 +247,6 @@ Module 3: Bootstrap and ngAnimation Labs
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Part4ngAnimate">Mod3Lab1Part4ngAnimate</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Part5ngAnimateJS">Mod3Lab1Part5ngAnimateJS</a>
 
----
-### Solutions for AngularJS Fundamentals and Advanced courses
-#### Clone or download zip from these GitHub Repos:
-<a target="_ref" href="https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland">https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland</a>
-
-<a target="_ref" href="https://github.com/davidmarsland/edX-dev220x-angularjs-demarsland">https://github.com/davidmarsland/edX-dev220x-angularjs-demarsland</a>
 
 ---
 Progressive Web Apps
@@ -312,3 +306,25 @@ gulp serve
 ---
 ### Everything Wrong With Angular (1.0-1.5)
 <a target="_ref" href="https://gist.github.com/JakeSidSmith/8e2a7c509347fb222e51a39131051f25">Everything Wrong With Angular (1.0-1.5) Blog post</a>
+
+---
+### Solutions for AngularJS Fundamentals and Advanced courses
+#### Clone or download zip from these GitHub Repos:
+<a target="_ref" href="https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland">https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland</a>
+
+<a target="_ref" href="https://github.com/davidmarsland/edX-dev220x-angularjs-demarsland">https://github.com/davidmarsland/edX-dev220x-angularjs-demarsland</a>
+
+---
+### Other AngularJS Learning Resources
+
+<a target="_ref" href="https://www.codeschool.com/courses/shaping-up-with-angularjs">Excellent CodeSchool Free AngularJS Course</a>
+* Great examples of Test Driven Development
+* Interactive tutorials give you feedback on your code dynamically each step!
+
+---
+
+#### PluralSight AngularJS Skills Assessment
+15 minute test of your proficiency in AngularJS.  Should be able to take once with 1 redo.
+
+<a target="_ref" href="https://www.pluralsight.com/paths/angular-js">https://www.pluralsight.com/paths/angular-js</a>
+
