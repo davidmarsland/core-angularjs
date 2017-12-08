@@ -248,6 +248,13 @@ Module 3: Bootstrap and ngAnimation Labs
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod3Lab1Part5ngAnimateJS">Mod3Lab1Part5ngAnimateJS</a>
 
 ---
+### Solutions for AngularJS Fundamentals and Advanced courses
+#### Clone or download zip from these GitHub Repos:
+<a target="_ref" href="https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland">https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland</a>
+
+<a target="_ref" href="https://github.com/davidmarsland/edX-dev220x-angularjs-demarsland">https://github.com/davidmarsland/edX-dev220x-angularjs-demarsland</a>
+
+---
 Progressive Web Apps
 <a target="_ref"href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/>https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/">Your First Progressive Web App</a>
 
