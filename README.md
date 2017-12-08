@@ -326,12 +326,16 @@ npm install -g bower
 npm install -g bower-installer
 ```
 * Install yo (Yeoman)
+
 ```
 npm install -g yo
+
 ```
 npm install -g generator-angm
 ```
+
 ---
+
 ### Generating an application: 
 * Launch angm, prompts for options
 ```
