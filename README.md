@@ -372,7 +372,7 @@ grunt build
 <a target="_ref" href="https://www.pluralsight.com/paths/angular-js">https://www.pluralsight.com/paths/angular-js</a>
 
 ---
-### Congratulations, Grocery Outlet Dev Team
+### Congratulations, Grocery Outlet Team
 ### You are now all AngularJS Developers!
 #### Thanks for having me, keep in touch
 <a target="_blank" href="mailto:david@marsland.org?s=AngularJS Course question">david@marsland.org</a>
