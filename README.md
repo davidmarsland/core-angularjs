@@ -245,7 +245,7 @@ Module 3: Bootstrap and ngAnimation Labs
 
 ---
 Progressive Web Apps
-<a target="_ref"href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/>https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/">Your First Progressive Web App</a>
+<a target="_ref"href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/">Your First Progressive Web App</a>
 
 ---
 ### Tools
