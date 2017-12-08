@@ -312,12 +312,19 @@ npm install jasmine-core -g
   ** Controller-as-syntax
   ** Service Decorator
 * <a target="_ref" href="https://docs.angularjs.org/guide/security">Secure Coding with AngularJS</a>
+
+* <a target="_ref" href="https://blog.risingstack.com/controlling-node-js-security-risk-npm-dependencies/">Controlling Node npm Security Risks</a>
+
+* <a target="_ref" href="https://help.github.com/articles/about-security-alerts-for-vulnerable-dependencies/">Github Security Vulnerability Alerts</a>
 ---
 
 ### AngularJS with ASP.NET Core
 <a target="_ref" href="https://docs.microsoft.com/en-us/aspnet/core/client-side/angular">Using AngularJS for Single Page Applications (SPAs) with ASP.NET Core</a>
 ---
+<font color="red">
 ### App Generator using Yeoman
+# DANGER, relies on old npm packages which github reports vulnerabilities in</font>
+<a target="_ref" href="https://snyk.io/vuln/npm:angular">Snyk.io Angular Vulnerabilities</a>
 <a target="_ref" href="https://www.npmjs.com/package/generator-angm">AngularJS Yeoman Generator Angm Generator</a>
 
 * Install Bower and bower-installer
