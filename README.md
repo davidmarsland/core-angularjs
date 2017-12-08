@@ -211,10 +211,6 @@ https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev
 ### Routes for Deep-linking Single Page Apps and UI-Router
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fcp%2Dmlxprod%2Dstatic%2Emicrosoft%2Ecom%3A443%2F05778%2D1013%2Fen%2Dus%2Fcontent%2Fcontent%5Fvwmcbnh1%5F5604984382%2F05052015115855%2Epptx&wdAr=1.7777777777777777' width='1186px' height='691px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
 ---
-<a target="_packt" href="https://www.packtpub.com/mapt/book/web_development/9781782161820/2">Building and Testing Web Apps</a>
-<br>from<br> <a target="_packt" href="https://www.packtpub.com/mapt/book/web_development/9781782161820/2">Mastering Web Application Development with AngularJS</a>
-
----
 ### Advanced Labs Module 1 Factories and Sessions
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod1LabPart1Session/">Mod1LabPart1Session</a>
 * <a target="_labs" href="https://davidmarsland.github.io/edX-dev221x-angularjs-adv-demarsland/Mod1LabPart2SessionFactory/">Mod1LabPart2SessionFactory
@@ -302,20 +298,6 @@ npm install jasmine-core -g
 <a target="_ref" href="https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland">https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland</a>
 
 ---
-### Other AngularJS Learning Resources
-
-<a target="_ref" href="https://www.codeschool.com/courses/shaping-up-with-angularjs">Excellent CodeSchool Free AngularJS Course</a>
-* Great examples of Test Driven Development
-* Interactive tutorials give you feedback on your code dynamically each step!
-
----
-
-#### PluralSight AngularJS Skills Assessment
-15 minute test of your proficiency in AngularJS.  Should be able to take once with 1 redo.
-
-<a target="_ref" href="https://www.pluralsight.com/paths/angular-js">https://www.pluralsight.com/paths/angular-js</a>
-
----
 ### Advanced Topics
 
 * Restangular <a target="_ref" href="http://plnkr.co/edit/8qrGeE?p=preview">RestAngular Demo</a>
@@ -336,7 +318,6 @@ npm install jasmine-core -g
 <a target="_ref" href="https://docs.microsoft.com/en-us/aspnet/core/client-side/angular">Using AngularJS for Single Page Applications (SPAs) with ASP.NET Core</a>
 ---
 ### App Generator using Yeoman
-
 <a target="_ref" href="https://www.npmjs.com/package/generator-angm">AngularJS Yeoman Generator Angm Generator</a>
 
 * Install Bower and bower-installer
@@ -350,11 +331,12 @@ npm install -g yo
 ```
 npm install -g generator-angm
 ```
-* Starting an application: From the command line, initiate the generator:
+---
+### Generating an application: 
+* Launch angm, prompts for options
 ```
 yo angm
 ```
-* Prompts to fill with useful informations as Project name, author, what UI: Bootstrap or Angular Material.
 
 * Running project on development
 ```
@@ -364,13 +346,38 @@ grunt dev
 ```
 grunt build
 ```
---- 
+<a target="_ref" href="https://www.npmjs.com/package/generator-angm">Learn more about Angm Generator</a>
+---
 
 ### Intro to AngularJS vs Angular 4
-<a target="_ref" href="https://gist.github.com/JakeSidSmith/8e2a7c509347fb222e51a39131051f25">Everything Wrong With Angular (1.0-1.5) Blog post</a>
 
 <a target="_ref" href="https://www.angularminds.com/blog/article/comparison-difference-between-angular1-vs-angular2-vs-angular4.html">Comparison AngularJS vs Angular2 vs Angular4</a>
 
 <a target="_ref" href="http://blog.grossman.io/angular-1-component-based-architecture-2/">Component Based AngularJS 1.5 WebApp</a>
 
 <a target="_ref" href="https://www.ng-book.com/2/p/Converting-an-AngularJS-1.x-App-to-Angular-4/">Converting AngularJS App to Angular4: ng-book</a>
+
+---
+### Other AngularJS Learning Resources
+
+<a target="_ref" href="https://www.codeschool.com/courses/shaping-up-with-angularjs">Excellent CodeSchool Free AngularJS Course</a>
+* Great examples of Test Driven Development
+* Interactive tutorials give you feedback on your code dynamically each step!
+
+---
+
+#### PluralSight AngularJS Skills Assessment
+15 minute test of your proficiency in AngularJS.  Should be able to take once with 1 redo.
+
+<a target="_ref" href="https://www.pluralsight.com/paths/angular-js">https://www.pluralsight.com/paths/angular-js</a>
+
+---
+### Congratulations, Grocery Outlet Dev Team
+### You are now all AngularJS Developers!
+#### Thanks for having me, keep in touch
+<a target="_blank" href="mailto:david@marsland.org?s=AngularJS Course question">david@marsland.org</a>
+<br>
+<a target="_di" href="http://developintelligence.com"><img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
+</a>
+<br>
+<a target="_git_core" href="https://davidmarsland.github.io/core-angularjs/">https://davidmarsland.github.io/core-angularjs/</a>
