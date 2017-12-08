@@ -310,9 +310,10 @@ gulp serve
 ---
 ### Solutions for AngularJS Fundamentals and Advanced courses
 #### Clone or download zip from these GitHub Repos:
-<a target="_ref" href="https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland">https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland</a>
 
 <a target="_ref" href="https://github.com/davidmarsland/edX-dev220x-angularjs-demarsland">https://github.com/davidmarsland/edX-dev220x-angularjs-demarsland</a>
+
+<a target="_ref" href="https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland">https://github.com/davidmarsland/edX-dev221x-angularjs-adv-demarsland</a>
 
 ---
 ### Other AngularJS Learning Resources
