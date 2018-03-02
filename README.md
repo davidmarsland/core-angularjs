@@ -1,6 +1,5 @@
-### Core AngularJS Training for Grocery Outlet 
-<a target="_blank" href="mailto:david@marsland.org?s=AngularJS Course question">david@marsland.org</a>
-<br>
+### Core AngularJS Training
+
 <img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
 <br>
 <a target="_di" href="http://developintelligence.com">DevelopIntelligence.com</a>
@@ -383,11 +382,8 @@ grunt build
 <a target="_ref" href="https://www.pluralsight.com/paths/angular-js">https://www.pluralsight.com/paths/angular-js</a>
 
 ---
-### Congratulations, Grocery Outlet Team
+### Congratulations
 ### You are now all AngularJS Developers!
-#### Thanks for having me, keep in touch
-<a target="_blank" href="mailto:david@marsland.org?s=AngularJS Course question">david@marsland.org</a>
-<br>
 <a target="_di" href="http://developintelligence.com"><img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
 </a>
 <br>
