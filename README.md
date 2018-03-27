@@ -1,9 +1,11 @@
 ### Core AngularJS Training
-
+#### Instructor: David Marsland
+<a target="_ref" href="https://www.linkedin.com/in/davidemarsland">https://www.linkedin.com/in/davidemarsland</a>
+<br>
 <img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
 <br>
 <a target="_di" href="http://developintelligence.com">DevelopIntelligence.com</a>
-#### Monday Dec. 4th - Friday Dec. 8th 9AM-5PM
+<br>
 <a target="_git_core" href="https://davidmarsland.github.io/core-angularjs/">https://davidmarsland.github.io/core-angularjs/</a>
 
 ---
