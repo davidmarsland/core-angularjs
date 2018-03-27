@@ -1,10 +1,22 @@
 ### Core AngularJS Training
+#### Instructor: David Marsland
 
 <img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
 <br>
 <a target="_di" href="http://developintelligence.com">DevelopIntelligence.com</a>
-#### Monday Dec. 4th - Friday Dec. 8th 9AM-5PM
+<br>
 <a target="_git_core" href="https://davidmarsland.github.io/core-angularjs/">https://davidmarsland.github.io/core-angularjs/</a>
+
+---
+### Introducing your instructor, David Marsland
+<a target="_ref" href="https://www.linkedin.com/in/davidemarsland">https://www.linkedin.com/in/davidemarsland</a>
+<br>
+* SGI Developer and Instructor 1991-1998
+* Sun Java Certified Developer and Instructor 1998-2004
+* eBay Chief Instructor 2004-2009
+* Sencha Chief Instructor / Training Director 2010-2015
+* Marsland Enterprises Chief Instructor 2015-
+* DevelopIntelligence Senior Technical Instructor 2017-
 
 ---
 ### Codepen.io
