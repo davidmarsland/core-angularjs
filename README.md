@@ -2,8 +2,7 @@
 #### Instructor: David Marsland
 <a target="_ref" href="https://www.linkedin.com/in/davidemarsland">https://www.linkedin.com/in/davidemarsland</a>
 <br>
-<img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
-<br>
+
 <a target="_di" href="http://developintelligence.com">DevelopIntelligence.com</a>
 <br>
 <a target="_git_core" href="https://davidmarsland.github.io/core-angularjs/">https://davidmarsland.github.io/core-angularjs/</a>
@@ -386,7 +385,5 @@ grunt build
 ---
 ### Congratulations
 ### You are now all AngularJS Developers!
-<a target="_di" href="http://developintelligence.com"><img src="http://www.developintelligence.com/sites/all/themes/diresponsive/images/Develop-Intelligence-logo-f.png">
-</a>
 <br>
 <a target="_git_core" href="https://davidmarsland.github.io/core-angularjs/">https://davidmarsland.github.io/core-angularjs/</a>
