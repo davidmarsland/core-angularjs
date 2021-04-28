@@ -2,9 +2,6 @@
 #### Instructor: David Marsland
 <a target="_ref" href="https://www.linkedin.com/in/davidemarsland">https://www.linkedin.com/in/davidemarsland</a>
 <br>
-
-<a target="_di" href="http://developintelligence.com">DevelopIntelligence.com</a>
-<br>
 <a target="_git_core" href="https://davidmarsland.github.io/core-angularjs/">https://davidmarsland.github.io/core-angularjs/</a>
 
 ---
